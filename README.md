@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/anki-cljs.svg)](https://clojars.org/anki-cljs)
+
 # anki-cljs
 
 ClojureScript interface for interacting with Anki
